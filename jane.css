@@ -1,0 +1,27 @@
+Body{
+	background-image: url("bg1");
+}
+
+#P1{
+	font-size: 150px;
+	position: absolute;
+	color: pink;
+	top: 250px;
+	left: 490px;
+}
+
+#P2{
+	font-size: 150px;
+	position: absolute;
+	color: pink;
+	top: 420px;
+}
+
+#PIC{
+	width: 300px;
+	height: 350px;
+	position: absolute;
+	border-radius: 10px;
+	border: 10px solid pink;
+	left: 710px;
+}
