@@ -1,0 +1,15 @@
+body {
+	color: #88CC88;
+	text-align: center;
+	font: normal 21px Courier, Calibri, Arial;
+	position: relative;
+	left: -300px;
+}
+
+html { 
+  background: url(kakashi.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
